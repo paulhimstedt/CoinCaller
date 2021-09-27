@@ -1,7 +1,7 @@
 # CoinCaller
 Dies ist eine App um Krypto-bezogene Tweets mittels eines QA-Systems, sowie einer Sentiment Analysis zu durchsuchen um ein breiteres Verständnis im Bereich Krypto zu generieren.
 
-Die Anwendung Coincaller läuft über die Plattform GoogleColab. Dazu muss der letzte Release im Master Branch über den Knopf "Open In Colab" in Colab geöffnet werden.
+Die Anwendung Coincaller läuft über die Plattform GoogleColab. Dazu muss der letzte Release im Master Branch angeklickt werden und über den Knopf "Open In Colab" in Colab geöffnet werden.
 
 Befindent man sich nun im Notebook empfiehlt es Sich die Laufzeit neu zu starten und alle Zellen auszuführen.
 
