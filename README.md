@@ -17,3 +17,6 @@ Bei der Ausführung des Codes ist ebenfalls darauf zu achten, dass es eventuell 
 Die Ausgabe der Ergebnisse des CoinCallers ist ganz am Ende des Notebooks zu finden.
   -Vorletzte Ausgabe: Ergebnisse der Suche
   -Letzte Ausgabe: Tortendiagramm mit Stimmungsbild
+
+Ist das Notebook einmal ausgeführt, muss um erneut eine Frage zu stellen nur das Input Feld in der 2. Code Zelle ausgeführt werden.
+Um die Frage dann auszuführen muss der Code lediglich ab der vorletzten Zelle ausgeführt werden.
